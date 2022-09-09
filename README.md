@@ -5,7 +5,7 @@ With this technique the error got drastically reduced. To get better understandi
 
 Steps involved :- 
 
-1) Perform Feature Engineering - Taking care of missing values, conveting categorical data etc.
+1) Perform Feature Engineering - Taking care of missing values, converting categorical data etc.
 2) Perform Geo-Feature Method to convert geo-location feature in the dataset into numerical.
 3) Train the model using Linear Regression Algorithm.
 4) Finally compare the results.
